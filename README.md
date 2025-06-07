@@ -69,12 +69,15 @@ To develop a command-line tool that enables:
    ```bash
    git clone https://github.com/your-username/fingerprint_project.git
    cd fingerprint_project
-2. Complie the project:
+2. Compile the project:
 
-  ```bash
-    g++ main.cpp functions.cpp -o fingerprint
-3. Run it:
+ ```bash
+ g++ main.cpp functions.cpp -o fingerprint
+ ```
+3. Run :
+```bash
+  ./fingerprint
+ ```
 
-   ```bash
-   ./fingerprint
+
 
