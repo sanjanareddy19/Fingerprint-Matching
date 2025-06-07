@@ -62,12 +62,22 @@ To develop a command-line tool that enables:
 | **Authentication Logic** | Login and session management |
 
 ---
+## 📁 File Structure
 
+| File Name            | Purpose                                |
+|----------------------|----------------------------------------|
+| `main.cpp`              | Main source code implementing logic   |
+| `criminal_database.txt` | Stores criminal fingerprint data     |
+| `credentials.txt`       | Login details                        |
+| `logs.txt`              | Login logs                          |
+| `search_history.txt`    | Previous search history             |
+
+---
 ## 🖥️ How to Run
 
 1. Clone the repo (or copy the project folder):
    ```bash
-   git clone https://github.com/your-username/fingerprint_project.git
+   git clone https://github.com/sanjanareddy19/Fingerprint-Matching.git
    cd fingerprint_project
 2. Compile the project:
 
