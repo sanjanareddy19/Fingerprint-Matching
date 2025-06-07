@@ -70,9 +70,11 @@ To develop a command-line tool that enables:
    git clone https://github.com/your-username/fingerprint_project.git
    cd fingerprint_project
 2. Complie the project:
+
   ```bash
     g++ main.cpp functions.cpp -o fingerprint
-3. Run it :
+3. Run it:
+
    ```bash
    ./fingerprint
 
